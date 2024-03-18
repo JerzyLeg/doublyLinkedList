@@ -1,0 +1,5 @@
+Odermatt,25,SWI,523.6
+Kilde,30,NOR,490.6
+Radamus,24,USA,113.8
+Feller,30,AUS,351.8
+Read,31,CAN,200.8

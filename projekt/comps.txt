@@ -1,0 +1,10 @@
+Solden,Odermatt
+Wengen,Kilde
+Kitzbuhel,Feller
+Schladming,Radamus
+Cortina,Odermatt
+Zagreb,Odermatt
+Adelboden,Odermatt
+Bormio,Kilde
+Madonna Di Campiglio,Feller
+Beaver Creek,Kilde
